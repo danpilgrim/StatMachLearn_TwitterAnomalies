@@ -7,7 +7,11 @@ In the most recent 2016 presidential election, the United States Justice Departm
   
 # References List: 
 • Shashank Pandit, Duen Horng Chau, Samuel Wang, Christos Faloutsos: NetProbe: A Fast and Scalable System for Fraud Detection in Online Auction Networks. WWW 2007.
+
 • Leman Akoglu, Hanghang Tong, Jilles Vreeken, Christos Faloutsos: Fast and reliable anomaly detection in categorical data. CIKM 2012: 415-424.
+
 • Jingrui He, Hanghang Tong, Jaime G. Carbonell: Rare Category Characterization. ICDM 2010: 226-235.
+
 • Littman, Justin; Wrubel, Laura; Kerchner, Daniel, 2016, "2016 United States Presidential Election Tweet Ids"
+
 • Lökk, A., & Hallman, J. (2016). Viability of Sentiment Analysis for Troll Detection on Twitter : A Comparative Study Between the Naive Bayes and Maximum Entropy Algorithms (Dissertation).
