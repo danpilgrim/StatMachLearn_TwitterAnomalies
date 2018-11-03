@@ -68,6 +68,7 @@ bin/
 *.elf
 
 # Python files
+.ipynb_checkpoints/
 *.pyc
 *.manifest
 *.spec
