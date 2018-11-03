@@ -1,3 +1,6 @@
+# Cloning
+Make sure you run `git lfs install` to install Git LFS before pulling.
+
 # cse575TwitterAnomalies
 Statistical Anomaly Project for Statistical Machine Learning Course
 
