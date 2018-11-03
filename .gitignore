@@ -1,0 +1,144 @@
+# Adric's master .gitignore file
+
+# Eclipse files
+.gradle
+.metadata
+.classpath
+.recommenders
+.settings
+.project
+bin/
+
+# Visual Studio files
+*.idb
+*.ncb
+*.sdf
+*.opensdf
+*.opendb
+*.pdb
+*.tlog
+*.ilk
+*.lastbuildstate
+*.pch
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.suo
+*.user
+*.sln.docstates
+*.vspscc
+*.vssscc
+*.aps
+*.cachefile
+*.psess
+*.vsp
+*.vspx
+*.plg
+
+# Cygwin files
+*.exe
+*.output
+*.gch
+*.sym
+
+# Intellij project files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Library and object files
+*.obj
+*.dll
+*.ko
+*.o
+*.slo
+*.lo
+*.lib
+*.lai
+*.la
+*.a
+*.so
+*.so.*
+*.dylib
+*.elf
+
+# Python files
+*.pyc
+*.manifest
+*.spec
+*.egg
+
+# PyCharm files
+.idea
+
+# Ant files
+build/
+dist/
+
+# Java class files
+*.class
+
+# Log files
+*.log
+*.bak
+
+# Dump files
+*.stackdump
+*.dmp
+
+# Patches
+*.diff
+
+# Archives
+*.zip
+*.gz
+*.bz2
+*.tar
+*.rar
+*.7z
+
+# Swap Files
+*.swp
+
+# Test files
+.tox
+.coverage
+
+# Temp files
+*.tmp
+
+# Mac files
+.DS_Store
+.AppleDB
+.AppleDesktop
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Mac thumbnails
+._* 
+
+# Windows files
+Thumbs.db
+$RECYCLE.BIN/
+Desktop.ini
+
+# Android files
+*.apk
+*.ap_
+build/
+gen/
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+/build
+/captures
