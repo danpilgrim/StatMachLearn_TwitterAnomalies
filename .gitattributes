@@ -90,7 +90,6 @@
 *.xbm  binary
 *.xcf  binary
 *.xwd  binary
-
 # Audio files, largely based on https://en.wikipedia.org/wiki/Audio_file_format
 *.aa    binary
 *.aac   binary
@@ -125,7 +124,6 @@
 *.wav   binary
 *.wma   binary
 *.wv    binary
-
 # Video files, largely based on https://en.wikipedia.org/wiki/Video_file_format
 *.3g2  binary
 *.3gpp binary
@@ -148,7 +146,6 @@
 *.m4p  binary
 *.m4v  binary
 *.mkv  binary
-*.mng  binary
 *.mov  binary
 *.mp4  binary
 *.mpe  binary
@@ -170,7 +167,6 @@
 *.webm binary
 *.wmv  binary
 *.yuv  binary
-
 # Archive files, largely based on https://en.wikipedia.org/wiki/List_of_archive_formats
 *.ace  binary
 *.apk  binary
@@ -181,7 +177,6 @@
 *.cab  binary
 *.car  binary
 *.cfs  binary
-*.cpt  binary
 *.dar  binary
 *.ear  binary
 *.gz   binary
@@ -214,7 +209,6 @@
 *.zip  binary
 *.zipx binary
 *.zz
-
 # Font files
 *.ps    binary
 *.ttf   binary
@@ -222,15 +216,14 @@
 *.otf   binary
 *.woff  binary
 *.woff2 binary
-
 # Executable files
 *.exe binary
 *.msi binary
 *.out binary
 *.pyc binary
-
 # Disk image files
 *.dmg     binary
 *.iso     binary
 *.partimg binary
 *.wim     binary
+*.csv filter=lfs diff=lfs merge=lfs -text
